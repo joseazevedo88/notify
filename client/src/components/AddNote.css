@@ -1,0 +1,7 @@
+.addNote {
+  display: inline;
+}
+
+.addNote:hover {
+  color: grey;
+}
